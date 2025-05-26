@@ -34,19 +34,6 @@ A lightweight, Python-based command-line tool that provides essential network di
     ```
     *(Remember to replace `https://github.com/your-username/your-repo-name.git` with your actual repository URL.)*
 
-2.  **Running with Python (if Python is installed):**
-    ```bash
-    python network_utility.py --help
-    ```
-    *(Assuming your main script file is `network_utility.py`.)*
-
-3.  **Running via PowerShell (for standalone use):**
-    * Download the latest pre-compiled executable from the **Releases** page of this repository.
-    * Open PowerShell and navigate to the directory where you saved the executable:
-        ```powershell
-        .\network_utility.exe --help
-        ```
-    *(You'll need to create a release with a compiled `.exe` using tools like PyInstaller.)*
 
 ```bash
 # Check if port 80 is open on example.com
