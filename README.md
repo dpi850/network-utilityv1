@@ -13,7 +13,7 @@ A lightweight, Python-based command-line tool that provides essential network di
     * Flush the DNS resolver cache.
     * View DNS cache entries.
     * Display ARP cache information.
-* **PowerShell Compatible:** Run the script through PowerShell even if Python is not installed system-wide (requires a pre-compiled executable, see **Installation** below).
+* **PowerShell Compatible:** Run the script through PowerShell even if Python is not installed system-wide.
 
 ---
 
