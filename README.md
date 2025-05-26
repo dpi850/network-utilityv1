@@ -47,3 +47,5 @@ python network_utility.py --flush-dns
 
 # Display ARP cache entries
 python network_utility.py --view-arp
+
+# This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
