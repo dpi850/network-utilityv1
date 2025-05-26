@@ -46,13 +46,11 @@ A lightweight, Python-based command-line tool that provides essential network di
         ```powershell
         .\network_utility.exe --help
         ```
-    *(You'll need to create a release with a compiled `.exe` using tools like PyInstaller.)*
+
 
 ---
 
 ## Usage Examples
-
-*(This section is crucial for demonstrating your tool. Once your script is ready, replace these placeholders with actual commands and their brief descriptions.)*
 
 ```bash
 # Check if port 80 is open on example.com
