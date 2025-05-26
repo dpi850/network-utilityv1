@@ -25,3 +25,5 @@ This project is released under the GNU Public License (GPL)
 * **Python 3.x:** If you plan to run the script directly with Python.
     * Uses only standard libraries: `socket`, `subprocess`, `os`, `time`, `re`.
 * **PowerShell:** Pre-installed on Windows and allows running the pre-compiled executable.
+![1](https://github.com/user-attachments/assets/5b13f11e-f032-4b34-8eb3-6a19b93d9f4a)
+![2](https://github.com/user-attachments/assets/fcbf1a34-2496-402f-bc1f-296cf37baca8)
