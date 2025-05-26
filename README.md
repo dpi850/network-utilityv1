@@ -25,26 +25,3 @@ This project is released under the GNU Public License (GPL)
 * **Python 3.x:** If you plan to run the script directly with Python.
     * Uses only standard libraries: `socket`, `subprocess`, `os`, `time`, `re`.
 * **PowerShell:** Pre-installed on Windows and allows running the pre-compiled executable.
-
-### Installation
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
-    *(Remember to replace `https://github.com/your-username/your-repo-name.git` with your actual repository URL.)*
-
-
-```bash
-# Check if port 80 is open on example.com
-python network_utility.py --check-port example.com 80
-
-# View active UDP connections
-python network_utility.py --connections udp
-
-# Flush the DNS cache
-python network_utility.py --flush-dns
-
-# Display ARP cache entries
-python network_utility.py --view-arp
