@@ -1,4 +1,4 @@
-# User-Level Network Utility v1 (Windows)
+# 850NetTool (Windows)
 
 A lightweight, user-level, Python-based command-line tool that provides essential network diagnostics, and cache management features for Windows.
 This project is released under the GNU Public License (GPL)
